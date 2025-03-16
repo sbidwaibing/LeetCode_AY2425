@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1894-merge-strings-alternately](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
