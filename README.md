@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
@@ -49,5 +50,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
