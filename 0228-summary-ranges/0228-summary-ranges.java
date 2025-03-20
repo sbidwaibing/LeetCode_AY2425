@@ -3,6 +3,15 @@ class Solution {
         int n = nums.length;
         List<String> ans = new ArrayList<>();
 
+        if(n == 0){
+            return ans;
+        }
+
+        if(n == 1){
+            ans.add(Integer.toString(nums[0]));
+            return ans;
+        }
+
         for(int i=0; i<n; i++){
             
             int start = nums[i];
