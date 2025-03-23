@@ -25,6 +25,7 @@
 | [0228-summary-ranges](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
 | [1019-squares-of-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1019-squares-of-a-sorted-array) |
 | [2350-find-closest-number-to-zero](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2350-find-closest-number-to-zero) |
@@ -40,6 +41,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0682-baseball-game) |
 ## Sorting
 |  |
 | ------- |
