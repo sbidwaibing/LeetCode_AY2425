@@ -39,6 +39,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1019-squares-of-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2058-concatenation-of-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2350-find-closest-number-to-zero](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2350-find-closest-number-to-zero) |
 ## Prefix Sum
 |  |
@@ -79,6 +80,7 @@
 | [0217-contains-duplicate](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,4 +152,5 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0948-sort-an-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
