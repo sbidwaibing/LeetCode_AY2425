@@ -20,6 +20,7 @@
 | [0443-string-compression](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3195-separate-black-and-white-balls) |
 ## Array
 |  |
@@ -58,6 +59,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
+| [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2058-concatenation-of-array) |
+| [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
