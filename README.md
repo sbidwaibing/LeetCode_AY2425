@@ -29,6 +29,7 @@
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0162-find-peak-element](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0238-product-of-array-except-self) |
@@ -117,6 +118,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0907-koko-eating-bananas) |
 ## Interactive
