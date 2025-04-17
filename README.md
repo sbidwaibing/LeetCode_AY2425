@@ -50,6 +50,7 @@
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2350-find-closest-number-to-zero](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2350-find-closest-number-to-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0605-can-place-flowers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3195-separate-black-and-white-balls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
@@ -87,6 +89,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1894-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3195-separate-black-and-white-balls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
@@ -130,6 +133,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
