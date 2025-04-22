@@ -21,6 +21,7 @@
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3195-separate-black-and-white-balls) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Tree
 |  |
 | ------- |
