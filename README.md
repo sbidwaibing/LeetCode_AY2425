@@ -36,6 +36,7 @@
 | [0136-single-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0238-product-of-array-except-self) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0392-is-subsequence) |
 ## Trie
