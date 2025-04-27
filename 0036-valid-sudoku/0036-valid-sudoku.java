@@ -1,37 +1,43 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        //validating the rows:
-        for(int i=0; i<9; i++){
+        int rows = board.length;
+        int cols = board[0].length;
+        int root = (int)Math.sqrt(rows);
+        
+        if(rows != cols || root * root != rows) return false;
+
+        for(int i=0; i<rows; i++){
             Set<Character> set = new HashSet<>();
-            for(int j=0; j<9; j++){
-                char item = board[i][j];
-                if(item != '.' && !set.add(item)){
-                    return false;
+            for(int j=0; j<cols; j++){
+                char num = board[i][j];
+                if(num != '.'){
+                    if(set.contains(num)) return false;
+                    set.add(num);
                 }
             }
         }
 
-        //validating the columns:
-        for(int i=0; i<9; i++){
+        for(int j=0; j<cols; j++){
             Set<Character> set = new HashSet<>();
-            for(int j=0; j<9; j++){
-                char item = board[j][i];
-                if(item != '.' && !set.add(item)){
-                    return false;
+            for(int i=0; i<rows; i++){
+                char num = board[i][j]; 
+                if(num != '.'){
+                    if(set.contains(num)) return false;
+                    set.add(num);
                 }
             }
         }
 
-        //vaidating 3x3 sub-cube:
-        int[][] starts = {{0,0},{0,3},{0,6}, {3,0}, {3,3}, {3,6}, {6,0}, {6,3}, {6,6}};
-
-        for(int[] start : starts){
-            Set<Character> set = new HashSet<>();
-            for(int row = start[0]; row<start[0] + 3; row++){
-                for(int col = start[1]; col<start[1] + 3; col++){
-                    char item = board[row][col];
-                    if(item != '.' && !set.add(item)){
-                        return false;
+        for(int i=0; i<rows; i+=root){
+            for(int j=0; j<cols; j+=root){
+                Set<Character> set = new HashSet<>();
+                for(int x=i; x<i+root; x++){
+                    for(int y=j; y<j+root; y++){
+                        char num = board[x][y];
+                        if(num != '.'){
+                            if(set.contains(num)) return false;
+                            set.add(num);
+                        }
                     }
                 }
             }
