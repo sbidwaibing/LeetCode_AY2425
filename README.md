@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0069-sqrtx) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1448-maximum-69-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## String
 |  |
 | ------- |
