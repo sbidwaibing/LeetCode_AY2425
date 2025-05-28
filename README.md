@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0069-sqrtx) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -188,6 +189,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0002-add-two-numbers) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
 ## Design
 |  |
@@ -230,6 +232,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
 ## Data Stream
 |  |
