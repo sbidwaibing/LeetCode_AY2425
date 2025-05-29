@@ -35,6 +35,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -284,4 +285,5 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
