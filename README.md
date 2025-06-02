@@ -17,6 +17,7 @@
 | [0013-roman-to-integer](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0344-reverse-string) |
@@ -138,6 +139,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0338-counting-bits) |
@@ -285,5 +287,6 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
