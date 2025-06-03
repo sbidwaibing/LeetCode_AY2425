@@ -8,6 +8,7 @@
 | [0002-add-two-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0070-climbing-stairs) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1448-maximum-69-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0338-counting-bits) |
@@ -292,4 +294,8 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
