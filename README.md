@@ -130,6 +130,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0041-first-missing-positive) |
+| [0146-lru-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0560-subarray-sum-equals-k) |
@@ -197,10 +198,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0146-lru-cache) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0146-lru-cache) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0969-number-of-recent-calls) |
@@ -298,4 +301,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0070-climbing-stairs) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
