@@ -28,6 +28,7 @@
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2232-adding-spaces-to-a-string) |
@@ -98,6 +99,7 @@
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0983-validate-stack-sequences) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
