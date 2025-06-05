@@ -1,13 +1,15 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
         int n = nums.length;
-        int[] ans = new int[n];
-
-        for(int i=0; i<n; i++){
-            ans[i] = nums[i]*nums[i];
+        
+        // Square each element in-place
+        for (int i = 0; i < n; i++) {
+            nums[i] = nums[i] * nums[i];
         }
-
-        Arrays.sort(ans);
-        return ans;
+        
+        // Sort the array in-place
+        Arrays.sort(nums);
+        
+        return nums;
     }
 }
