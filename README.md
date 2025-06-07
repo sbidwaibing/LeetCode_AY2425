@@ -205,6 +205,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
 ## Design
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
 ## Data Stream
 |  |
