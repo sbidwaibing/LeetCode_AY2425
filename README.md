@@ -54,6 +54,7 @@
 | [0238-product-of-array-except-self](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0560-subarray-sum-equals-k) |
@@ -118,6 +119,7 @@
 | [0141-linked-list-cycle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0392-is-subsequence) |
@@ -199,6 +201,7 @@
 | [0069-sqrtx](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -276,6 +279,7 @@
 | [0190-reverse-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0371-sum-of-two-integers) |
 ## Queue
