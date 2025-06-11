@@ -37,6 +37,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3195-separate-black-and-white-balls) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 | ------- |
 | [0948-sort-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0948-sort-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Recursion
 |  |
 | ------- |
