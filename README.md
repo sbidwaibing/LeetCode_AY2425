@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
@@ -147,6 +148,7 @@
 | [0013-roman-to-integer](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0146-lru-cache) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Simulation
@@ -339,6 +342,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
 ## Memoization
 |  |
