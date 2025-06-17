@@ -29,6 +29,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -101,6 +102,7 @@
 | [0045-jump-game-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0605-can-place-flowers) |
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
 | [1448-maximum-69-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1448-maximum-69-number) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
@@ -119,6 +122,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
 ## Two Pointers
