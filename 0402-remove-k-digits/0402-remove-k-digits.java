@@ -1,8 +1,8 @@
 class Solution {
     public String removeKdigits(String num, int k) {
         int n = num.length();
+        if( k == n || num.equals("0")) return "0";
         
-        if(k == n) return "0";
         Stack<Character> st  = new Stack<>();
 
         for(int i=0; i<n; i++){
