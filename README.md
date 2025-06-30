@@ -407,4 +407,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
