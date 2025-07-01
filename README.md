@@ -37,6 +37,7 @@
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0443-string-compression) |
+| [0965-unique-email-addresses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0965-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -87,6 +88,7 @@
 | [0907-koko-eating-bananas](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0948-sort-an-array) |
+| [0965-unique-email-addresses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0983-validate-stack-sequences) |
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1019-squares-of-a-sorted-array) |
@@ -189,6 +191,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0940-fruit-into-baskets) |
+| [0965-unique-email-addresses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0965-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1392-find-the-difference-of-two-arrays) |
