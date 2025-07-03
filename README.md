@@ -374,6 +374,7 @@
 | [0112-path-sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -384,12 +385,14 @@
 | [0112-path-sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
@@ -399,6 +402,7 @@
 | [0112-path-sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
