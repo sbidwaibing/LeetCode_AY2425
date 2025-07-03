@@ -77,6 +77,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0605-can-place-flowers) |
@@ -136,6 +137,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -190,6 +193,7 @@
 | [0242-valid-anagram](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
+| [0496-next-greater-element-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0940-fruit-into-baskets) |
