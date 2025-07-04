@@ -1,22 +1,13 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        
-        int slow = nums[0];
-        int fast = nums[0];
+        Set<Integer> set = new HashSet<>();
+        int n = nums.length;
 
-        do{
-            slow = nums[slow];
-            fast = nums[nums[fast]];
-        }
-        while (slow != fast);
-
-        slow = nums[0];
-        while(slow!=fast){
-
-            slow = nums[slow];
-            fast = nums[fast];
+        for(int num : nums){
+            if(!set.add(num)) return num;
         }
 
-        return slow;
+        // If no duplicate is found (which shouldn't happen in valid input)
+        throw new IllegalArgumentException("No duplicate found in the array.");
     }
 }
