@@ -63,6 +63,7 @@
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0136-single-number) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0145-binary-tree-postorder-traversal) |
@@ -154,6 +156,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
@@ -218,6 +221,7 @@
 | [0045-jump-game-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0338-counting-bits) |
@@ -232,6 +236,7 @@
 | [0036-valid-sudoku](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Simulation
 |  |
