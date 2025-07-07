@@ -38,6 +38,7 @@
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0567-permutation-in-string) |
 | [0878-shifting-letters](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0878-shifting-letters) |
 | [0965-unique-email-addresses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0965-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1023-time-based-key-value-store) |
@@ -176,6 +177,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0567-permutation-in-string) |
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -204,6 +206,7 @@
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0965-unique-email-addresses) |
@@ -371,6 +374,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0187-repeated-dna-sequences) |
+| [0567-permutation-in-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0940-fruit-into-baskets) |
