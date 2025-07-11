@@ -83,6 +83,7 @@
 | [0283-move-zeroes](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0540-single-element-in-a-sorted-array) |
@@ -184,6 +185,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0567-permutation-in-string) |
@@ -213,6 +215,7 @@
 | [0217-contains-duplicate](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0349-intersection-of-two-arrays) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0560-subarray-sum-equals-k) |
@@ -271,6 +274,7 @@
 | [0217-contains-duplicate](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
@@ -289,6 +293,7 @@
 | [0162-find-peak-element](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0713-subarray-product-less-than-k) |
