@@ -15,7 +15,6 @@ class Solution {
         int length = 1;
         ListNode tempHead = head;
 
-        // calculating the length of the LL
         while(tempHead.next != null) {
             tempHead = tempHead.next;
             length++;
@@ -24,19 +23,15 @@ class Solution {
         k %= length;
         if (k == 0) return head;
 
-        // Make the list circular
         tempHead.next = head;
 
-        // Find new tail: move (length - k - 1) steps from head
         ListNode newTail = head;
         for(int i = 0; i < length - k - 1; i++) {
             newTail = newTail.next;
         }
 
-        // The node next to newTail is the new head
         ListNode newHead = newTail.next;
 
-        // Break the circle
         newTail.next = null;
         
         return newHead;
