@@ -1,14 +1,13 @@
 class Solution {
     public void rotate(int[] nums, int k) {
-        int n = nums.length;
-        if (n == 0) return;
+        if (nums.length == 0) return;
 
-        k %= n;  
+        k %= nums.length;  
         if (k == 0) return;  
 
-        reverse(nums, 0, n-1);
+        reverse(nums, 0, nums.length-1);
         reverse(nums, 0, k-1);
-        reverse(nums, k, n-1);
+        reverse(nums, k, nums.length-1);
     }
 
     private void reverse(int[] arr, int start, int end) {
