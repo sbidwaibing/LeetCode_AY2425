@@ -10,6 +10,7 @@
 | [0069-sqrtx](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0371-sum-of-two-integers) |
@@ -72,6 +73,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0228-summary-ranges) |
@@ -176,6 +178,7 @@
 | [0075-sort-colors](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0287-find-the-duplicate-number) |
