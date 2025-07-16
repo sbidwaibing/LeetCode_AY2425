@@ -67,6 +67,7 @@
 | [0055-jump-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0136-single-number) |
@@ -245,6 +246,7 @@
 | [0055-jump-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0322-coin-change) |
