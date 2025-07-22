@@ -103,6 +103,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0940-fruit-into-baskets) |
+| [0941-sort-array-by-parity](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0983-validate-stack-sequences) |
@@ -200,6 +201,7 @@
 | [0541-reverse-string-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0633-sum-of-square-numbers) |
+| [0941-sort-array-by-parity](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1019-squares-of-a-sorted-array) |
@@ -291,6 +293,7 @@
 | [0242-valid-anagram](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0349-intersection-of-two-arrays) |
+| [0941-sort-array-by-parity](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
