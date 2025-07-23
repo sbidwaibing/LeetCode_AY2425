@@ -116,6 +116,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1659-get-the-maximum-score](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1659-get-the-maximum-score) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1833-find-the-highest-altitude) |
@@ -205,6 +206,7 @@
 | [0985-bag-of-tokens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1019-squares-of-a-sorted-array) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1659-get-the-maximum-score](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1659-get-the-maximum-score) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1894-merge-strings-alternately) |
@@ -299,6 +301,7 @@
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1019-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2497-maximum-matching-of-players-with-trainers) |
