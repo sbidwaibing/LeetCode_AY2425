@@ -113,6 +113,7 @@
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1019-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1319-unique-number-of-occurrences) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -151,6 +152,7 @@
 | [0605-can-place-flowers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0605-can-place-flowers) |
 | [0985-bag-of-tokens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
+| [1346-maximize-the-topmost-element-after-k-moves](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1448-maximum-69-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1659-get-the-maximum-score](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1659-get-the-maximum-score) |
