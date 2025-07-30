@@ -101,6 +101,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
+| [0852-friends-of-appropriate-ages](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0852-friends-of-appropriate-ages) |
 | [0878-shifting-letters](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0907-koko-eating-bananas) |
@@ -208,6 +209,7 @@
 | [0541-reverse-string-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0633-sum-of-square-numbers) |
+| [0852-friends-of-appropriate-ages](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0852-friends-of-appropriate-ages) |
 | [0941-sort-array-by-parity](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
@@ -302,6 +304,7 @@
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0349-intersection-of-two-arrays) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0852-friends-of-appropriate-ages](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0852-friends-of-appropriate-ages) |
 | [0941-sort-array-by-parity](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0985-bag-of-tokens) |
@@ -327,6 +330,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0713-subarray-product-less-than-k) |
+| [0852-friends-of-appropriate-ages](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0852-friends-of-appropriate-ages) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1023-time-based-key-value-store) |
