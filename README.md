@@ -134,6 +134,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2350-find-closest-number-to-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -299,6 +300,7 @@
 | [2058-concatenation-of-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
+| [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -343,6 +345,7 @@
 | [0907-koko-eating-bananas](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1023-time-based-key-value-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -528,4 +531,12 @@
 |  |
 | ------- |
 | [0770-couples-holding-hands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0770-couples-holding-hands) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
