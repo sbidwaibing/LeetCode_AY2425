@@ -7,6 +7,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -433,6 +434,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0190-reverse-bits) |
