@@ -19,6 +19,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1448-maximum-69-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String
 |  |
 | ------- |
@@ -140,6 +141,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2350-find-closest-number-to-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
@@ -341,6 +343,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -559,4 +562,12 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
