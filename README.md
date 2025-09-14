@@ -144,6 +144,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2350-find-closest-number-to-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2591-frog-jump-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2591-frog-jump-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
@@ -178,6 +179,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1659-get-the-maximum-score](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1659-get-the-maximum-score) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2591-frog-jump-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2591-frog-jump-ii) |
 | [3195-separate-black-and-white-balls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
@@ -371,6 +373,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2591-frog-jump-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2591-frog-jump-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
 ## Interactive
 |  |
