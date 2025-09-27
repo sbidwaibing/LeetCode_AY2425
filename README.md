@@ -15,6 +15,7 @@
 | [0202-happy-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0371-sum-of-two-integers) |
+| [0384-shuffle-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0384-shuffle-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1448-maximum-69-number) |
@@ -101,6 +102,7 @@
 | [0322-coin-change](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0349-intersection-of-two-arrays) |
+| [0384-shuffle-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0384-shuffle-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0485-max-consecutive-ones) |
@@ -404,6 +406,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0384-shuffle-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0384-shuffle-an-array) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
@@ -592,4 +595,8 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
