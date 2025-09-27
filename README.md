@@ -78,6 +78,7 @@
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0118-pascals-triangle) |
@@ -466,6 +467,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0190-reverse-bits) |
@@ -545,6 +547,7 @@
 | [0022-generate-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |
