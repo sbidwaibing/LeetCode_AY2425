@@ -77,6 +77,7 @@
 | [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -323,6 +324,7 @@
 | [0036-valid-sudoku](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Simulation
@@ -368,6 +370,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
