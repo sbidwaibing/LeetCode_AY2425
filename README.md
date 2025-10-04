@@ -72,6 +72,7 @@
 | [0035-search-insert-position](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0049-group-anagrams) |
@@ -553,6 +554,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0078-subsets) |
 ## Memoization
