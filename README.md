@@ -20,6 +20,7 @@
 | [0633-sum-of-square-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1642-water-bottles) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -341,6 +342,7 @@
 | [0682-baseball-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1552-build-an-array-with-stack-operations) |
+| [1642-water-bottles](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
