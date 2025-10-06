@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0371-sum-of-two-integers) |
 | [0384-shuffle-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0384-shuffle-an-array) |
+| [0486-predict-the-winner](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1448-maximum-69-number) |
@@ -110,6 +111,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0454-4sum-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0560-subarray-sum-equals-k) |
@@ -316,6 +318,7 @@
 | [0322-coin-change](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0486-predict-the-winner) |
 | [1659-get-the-maximum-score](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1659-get-the-maximum-score) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Trie
@@ -466,6 +469,7 @@
 | [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0486-predict-the-winner) |
 ## Data Stream
 |  |
 | ------- |
@@ -611,4 +615,8 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0384-shuffle-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
