@@ -24,6 +24,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3336-water-bottles-ii) |
 | [3830-find-closest-person](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -346,6 +347,7 @@
 | [2058-concatenation-of-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
+| [3336-water-bottles-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
