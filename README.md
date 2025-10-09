@@ -163,6 +163,7 @@
 | [2591-frog-jump-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2591-frog-jump-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0878-shifting-letters](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0878-shifting-letters) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1833-find-the-highest-altitude](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1833-find-the-highest-altitude) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -352,6 +354,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sorting
 |  |
 | ------- |
