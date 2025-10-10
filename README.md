@@ -531,6 +531,7 @@
 | [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0783-search-in-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -542,6 +543,7 @@
 | [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0770-couples-holding-hands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0770-couples-holding-hands) |
+| [0904-leaf-similar-trees](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -562,6 +564,7 @@
 | [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0783-search-in-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
