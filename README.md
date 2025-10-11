@@ -16,6 +16,7 @@
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0371-sum-of-two-integers) |
 | [0384-shuffle-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0384-shuffle-an-array) |
+| [0412-fizz-buzz](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -50,6 +51,7 @@
 | [0392-is-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0567-permutation-in-string) |
@@ -347,6 +349,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0983-validate-stack-sequences) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1552-build-an-array-with-stack-operations) |
