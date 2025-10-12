@@ -167,6 +167,7 @@
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -360,6 +361,7 @@
 | [3336-water-bottles-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -505,6 +507,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0371-sum-of-two-integers) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Queue
 |  |
 | ------- |
