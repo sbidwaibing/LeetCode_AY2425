@@ -53,6 +53,7 @@
 | [0402-remove-k-digits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0443-string-compression) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0567-permutation-in-string) |
 | [0878-shifting-letters](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0878-shifting-letters) |
@@ -300,6 +301,7 @@
 | [0454-4sum-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
@@ -440,6 +442,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0384-shuffle-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0384-shuffle-an-array) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
@@ -449,6 +452,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0187-repeated-dna-sequences) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0817-design-hashmap) |
 ## Divide and Conquer
