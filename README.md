@@ -125,6 +125,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0817-design-hashmap) |
 | [0852-friends-of-appropriate-ages](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0852-friends-of-appropriate-ages) |
 | [0853-most-profit-assigning-work](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0853-most-profit-assigning-work) |
 | [0878-shifting-letters](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0878-shifting-letters) |
@@ -302,6 +303,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0940-fruit-into-baskets) |
 | [0965-unique-email-addresses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0965-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1023-time-based-key-value-store) |
@@ -430,6 +432,7 @@
 | [0206-reverse-linked-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
@@ -438,6 +441,7 @@
 | [0384-shuffle-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0384-shuffle-an-array) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1023-time-based-key-value-store) |
@@ -446,6 +450,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0187-repeated-dna-sequences) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0817-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
