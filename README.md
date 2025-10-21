@@ -87,6 +87,7 @@
 | [0041-first-missing-positive](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
@@ -385,6 +386,7 @@
 | ------- |
 | [0015-3sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0164-maximum-gap) |
@@ -607,6 +609,7 @@
 | [0037-sudoku-solver](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0078-subsets) |
 ## Memoization
