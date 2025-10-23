@@ -28,6 +28,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3830-find-closest-person) |
 ## String
 |  |
@@ -71,6 +72,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3195-separate-black-and-white-balls) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -378,6 +380,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3336-water-bottles-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -667,6 +670,7 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Randomized
 |  |
 | ------- |
@@ -675,4 +679,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0486-predict-the-winner) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
