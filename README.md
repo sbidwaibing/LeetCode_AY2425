@@ -23,6 +23,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -330,6 +331,7 @@
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -513,6 +515,7 @@
 | ------- |
 | [0948-sort-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0948-sort-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Recursion
 |  |
@@ -619,6 +622,7 @@
 | [0047-permutations-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0078-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Memoization
 |  |
 | ------- |
@@ -665,6 +669,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Number Theory
 |  |
