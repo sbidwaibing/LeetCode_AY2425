@@ -23,6 +23,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
