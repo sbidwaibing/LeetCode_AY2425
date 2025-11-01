@@ -46,6 +46,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0151-reverse-words-in-a-string) |
