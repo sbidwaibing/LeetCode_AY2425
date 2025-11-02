@@ -158,6 +158,7 @@
 | [0985-bag-of-tokens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1019-squares-of-a-sorted-array) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1319-unique-number-of-occurrences) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -252,6 +253,7 @@
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0983-validate-stack-sequences) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -266,6 +268,7 @@
 | [0496-next-greater-element-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
