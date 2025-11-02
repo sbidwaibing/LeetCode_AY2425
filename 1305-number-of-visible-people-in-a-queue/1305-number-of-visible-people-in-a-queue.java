@@ -1,6 +1,8 @@
 class Solution {
     public int[] canSeePersonsCount(int[] heights) {
-        // int len = heights.length;
+
+        if(heights == null || heights.length == 1) return new int[]{0};
+        
         int[] resultArray = new int[heights.length];
         Stack<Integer> st = new Stack<>();
 
