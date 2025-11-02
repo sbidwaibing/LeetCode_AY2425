@@ -618,6 +618,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0770-couples-holding-hands) |
 | [0904-leaf-similar-trees](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
@@ -628,6 +629,7 @@
 | [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0770-couples-holding-hands) |
 ## Binary Tree
 |  |
@@ -685,10 +687,12 @@
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0770-couples-holding-hands) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0770-couples-holding-hands) |
 ## Segment Tree
 |  |
