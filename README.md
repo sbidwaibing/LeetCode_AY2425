@@ -62,6 +62,7 @@
 | [0412-fizz-buzz](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0443-string-compression) |
 | [0468-validate-ip-address](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0468-validate-ip-address) |
+| [0520-detect-capital](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0520-detect-capital) |
 | [0535-encode-and-decode-tinyurl](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0567-permutation-in-string) |
