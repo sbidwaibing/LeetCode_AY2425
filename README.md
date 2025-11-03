@@ -617,6 +617,7 @@
 | [0112-path-sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0547-number-of-provinces) |
@@ -627,6 +628,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0322-coin-change) |
@@ -693,6 +695,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0547-number-of-provinces) |
 | [0770-couples-holding-hands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0770-couples-holding-hands) |
 ## Segment Tree
@@ -729,4 +732,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
