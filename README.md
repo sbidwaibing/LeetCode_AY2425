@@ -121,6 +121,7 @@
 | [0164-maximum-gap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0238-product-of-array-except-self) |
@@ -392,6 +393,7 @@
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0695-max-area-of-island) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -621,6 +623,7 @@
 | [0112-path-sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
@@ -634,6 +637,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
@@ -698,6 +702,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0770-couples-holding-hands) |
