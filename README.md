@@ -143,6 +143,7 @@
 | [0605-can-place-flowers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
@@ -391,6 +392,7 @@
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
+| [0695-max-area-of-island](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0695-max-area-of-island) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
@@ -624,6 +626,7 @@
 | [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0770-couples-holding-hands) |
 | [0904-leaf-similar-trees](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
@@ -637,6 +640,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0770-couples-holding-hands) |
 ## Binary Tree
 |  |
@@ -695,6 +699,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0770-couples-holding-hands) |
 ## Graph
 |  |
