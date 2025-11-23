@@ -90,6 +90,7 @@
 | [0015-3sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0036-valid-sudoku) |
@@ -285,6 +286,7 @@
 | [0015-3sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0075-sort-colors) |
