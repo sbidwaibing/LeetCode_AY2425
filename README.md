@@ -167,6 +167,7 @@
 | [0985-bag-of-tokens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1019-squares-of-a-sorted-array) |
+| [1274-number-of-ships-in-a-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1274-number-of-ships-in-a-rectangle) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1319-unique-number-of-occurrences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1319-unique-number-of-occurrences) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
@@ -486,6 +487,7 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0374-guess-number-higher-or-lower) |
+| [1274-number-of-ships-in-a-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1274-number-of-ships-in-a-rectangle) |
 ## Linked List
 |  |
 | ------- |
@@ -532,6 +534,7 @@
 | [0190-reverse-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0948-sort-an-array) |
+| [1274-number-of-ships-in-a-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1274-number-of-ships-in-a-rectangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
