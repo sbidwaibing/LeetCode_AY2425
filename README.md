@@ -497,6 +497,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0817-design-hashmap) |
@@ -637,6 +638,7 @@
 | [0210-course-schedule-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0547-number-of-provinces](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0695-max-area-of-island) |
 | [0770-couples-holding-hands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0770-couples-holding-hands) |
@@ -695,6 +697,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
 ## Database
 |  |
