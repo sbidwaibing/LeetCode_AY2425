@@ -77,6 +77,7 @@
 | [1894-merge-strings-alternately](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2232-adding-spaces-to-a-string) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2470-removing-stars-from-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2470-removing-stars-from-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3195-separate-black-and-white-balls) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -365,6 +366,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -565,6 +567,7 @@
 | [0948-sort-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0948-sort-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Recursion
 |  |
