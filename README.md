@@ -32,6 +32,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3336-water-bottles-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -202,6 +203,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3790-fruits-into-baskets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3790-fruits-into-baskets-ii) |
