@@ -46,6 +46,7 @@
 | [0014-longest-common-prefix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0049-group-anagrams) |
@@ -293,6 +294,7 @@
 | [0016-3sum-closest](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0075-sort-colors) |
@@ -778,4 +780,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0210-course-schedule-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
