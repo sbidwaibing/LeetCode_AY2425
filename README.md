@@ -59,6 +59,7 @@
 | [0316-remove-duplicate-letters](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0402-remove-k-digits) |
@@ -348,6 +349,7 @@
 | [0242-valid-anagram](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
@@ -566,6 +568,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0948-sort-an-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -605,6 +608,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0969-number-of-recent-calls) |
 ## Sliding Window
 |  |
