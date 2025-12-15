@@ -182,6 +182,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1472-design-browser-history](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1472-design-browser-history) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -278,6 +279,7 @@
 | [0983-validate-stack-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0983-validate-stack-sequences) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1472-design-browser-history) |
 | [1552-build-an-array-with-stack-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -521,6 +523,7 @@
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0817-design-hashmap) |
+| [1472-design-browser-history](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1472-design-browser-history) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
@@ -535,6 +538,7 @@
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1023-time-based-key-value-store) |
+| [1472-design-browser-history](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
 | ------- |
@@ -601,6 +605,7 @@
 | ------- |
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0969-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1472-design-browser-history) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -727,6 +732,7 @@
 | [0146-lru-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
+| [1472-design-browser-history](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1472-design-browser-history) |
 ## Database
 |  |
 | ------- |
