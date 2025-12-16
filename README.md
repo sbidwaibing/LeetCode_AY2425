@@ -521,6 +521,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0146-lru-cache) |
+| [0203-remove-linked-list-elements](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0460-lfu-cache) |
@@ -601,6 +602,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0486-predict-the-winner) |
