@@ -79,6 +79,7 @@
 | [1023-time-based-key-value-store](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1396-design-underground-system](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1396-design-underground-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -380,6 +381,7 @@
 | [1023-time-based-key-value-store](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1023-time-based-key-value-store) |
 | [1319-unique-number-of-occurrences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1396-design-underground-system](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1396-design-underground-system) |
 | [1612-avoid-flood-in-the-city](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1612-avoid-flood-in-the-city) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -546,6 +548,7 @@
 | [0937-online-stock-span](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1023-time-based-key-value-store) |
+| [1396-design-underground-system](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
