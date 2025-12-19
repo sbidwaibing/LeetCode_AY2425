@@ -54,6 +54,7 @@
 | [0049-group-anagrams](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0187-repeated-dna-sequences) |
@@ -116,6 +117,7 @@
 | [0074-search-a-2d-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0090-subsets-ii) |
@@ -421,6 +423,7 @@
 | [0048-rotate-image](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0695-max-area-of-island) |
@@ -666,6 +669,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0112-path-sum) |
@@ -727,6 +731,7 @@
 | [0047-permutations-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0090-subsets-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0797-all-paths-from-source-to-target) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/2174-next-greater-numerically-balanced-number) |
