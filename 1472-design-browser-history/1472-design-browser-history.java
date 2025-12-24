@@ -18,13 +18,13 @@ class BrowserHistory {
     
     public void visit(String url) {
         
-        Node newNode = new Node(url);
+        Node page = new Node(url);
         current.next = null;
 
-        newNode.prev = current;
-        current.next = newNode;
+        page.prev = current;
+        current.next = page;
 
-        current = newNode;
+        current = page;
     }
     
     public String back(int steps) {
