@@ -753,6 +753,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/0596-classes-with-at-least-5-students) |
 | [3792-find-invalid-ip-addresses](https://github.com/sbidwaibing/LeetCode_AY2425/tree/master/3792-find-invalid-ip-addresses) |
 ## Rolling Hash
